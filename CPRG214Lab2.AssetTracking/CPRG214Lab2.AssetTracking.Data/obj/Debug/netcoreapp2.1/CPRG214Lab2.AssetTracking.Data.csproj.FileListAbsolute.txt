@@ -1,0 +1,14 @@
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.Data\bin\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.Data.deps.json
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.Data\bin\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.Data.dll
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.Data\obj\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.Data.csproj.CoreCompileInputs.cache
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.Data\obj\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.Data.AssemblyInfoInputs.cache
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.Data\obj\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.Data.AssemblyInfo.cs
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.Data\obj\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.Data.csprojAssemblyReference.cache
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.Data\bin\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.Data.runtimeconfig.json
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.Data\bin\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.Data.runtimeconfig.dev.json
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.Data\bin\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.Data.pdb
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.Data\bin\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.domain.dll
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.Data\bin\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.domain.pdb
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.Data\obj\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.Data.csproj.CopyComplete
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.Data\obj\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.Data.dll
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.Data\obj\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.Data.pdb
