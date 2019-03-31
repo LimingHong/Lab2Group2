@@ -1,0 +1,16 @@
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.BLL\bin\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.BLL.deps.json
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.BLL\bin\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.BLL.dll
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.BLL\bin\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.Data.dll
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.BLL\bin\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.domain.dll
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.BLL\bin\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.Data.pdb
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.BLL\bin\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.domain.pdb
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.BLL\obj\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.BLL.csprojAssemblyReference.cache
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.BLL\obj\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.BLL.csproj.CoreCompileInputs.cache
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.BLL\obj\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.BLL.AssemblyInfoInputs.cache
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.BLL\obj\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.BLL.AssemblyInfo.cs
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.BLL\obj\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.BLL.csproj.CopyComplete
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.BLL\bin\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.BLL.runtimeconfig.json
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.BLL\bin\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.BLL.runtimeconfig.dev.json
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.BLL\bin\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.BLL.pdb
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.BLL\obj\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.BLL.dll
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.BLL\obj\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.BLL.pdb
