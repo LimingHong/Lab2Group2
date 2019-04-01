@@ -63,7 +63,7 @@ using CPRG214Lab2.AssetTracking.App.Models;
             WriteLiteral("\r\n<h2>Search Assets by Asset Type</h2>\r\n\r\n\r\n<div>\r\n    <label>Select Assets Type:</label>\r\n    ");
             EndContext();
             BeginContext(139, 67, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6487f3f9e05743a8a90ea16b8660a261", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "887093acdb9f4aee8e20b6bec2e72a48", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_SelectTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper>();

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.Runtime.InteropServices;
 
@@ -9,6 +10,7 @@ namespace CPRG214Lab2.AssetTracking.domain
         public int Id { get; set; }
         [Required]
         public string TagNumber { get; set; }
+        [DisplayName("Asset Type")]
         public int AssetTypeId { get; set; }
        
          public string Manufacturer { get; set; }
@@ -17,6 +19,7 @@ namespace CPRG214Lab2.AssetTracking.domain
         public string Description { get; set; }
         public string SerialNumber { get; set; }
         //navigation property
+        
         public AssetType AssetType { get; set; }
       
 

@@ -111,7 +111,7 @@ namespace CPRG214Lab2.AssetTracking.App.Controllers
             //has a value of 0.  This value of 0 is tested in the ViewComponent.  If
             //the property type id is 0 we want all rentals returned otherwise we will
             //use the id in the query.
-            items.Insert(0, new SelectListItem { Text = "New AssetType Name", Value = "0" });
+            items.Insert(0, new SelectListItem { Text = "AssetType Name", Value = "0" });
 
             //Pass the SelectListItem collection to the view through the ViewBag
             //ViewBag is strongly-typed

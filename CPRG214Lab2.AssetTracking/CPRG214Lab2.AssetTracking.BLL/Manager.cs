@@ -87,7 +87,8 @@ namespace CPRG214Lab2.AssetTracking.BLL
                 var context = new AssetTrackingContext();
                 //find the domain entity with this context  that has the same id as the entity passed in
                 var Asset =
-                    context.Assets.SingleOrDefault(A => A.Id == id);
+
+                    context.Assets.Include(a=>a.AssetType).SingleOrDefault(A => A.Id == id);
                 return Asset;
             }
 

@@ -37,10 +37,10 @@ C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking
 C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.App\obj\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.App.dll
 C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.App\obj\Debug\netcoreapp2.1\CPRG214Lab2.AssetTracking.App.pdb
 C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.App\obj\Debug\netcoreapp2.1\Razor\Views\Assets\Index.g.cshtml.cs
-C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.App\obj\Debug\netcoreapp2.1\Razor\Views\Assets\Details.g.cshtml.cs
 C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.App\obj\Debug\netcoreapp2.1\Razor\Views\Assets\Create.g.cshtml.cs
 C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.App\obj\Debug\netcoreapp2.1\Razor\Views\Assets\Edit.g.cshtml.cs
 C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.App\obj\Debug\netcoreapp2.1\Razor\Views\Assets\Search.g.cshtml.cs
 C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.App\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\AssetByType\Default.g.cshtml.cs
 C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.App\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Create.g.cshtml.cs
 C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.App\obj\Debug\netcoreapp2.1\Razor\Views\AssetType\Edit.g.cshtml.cs
+C:\Users\812217\source\repos\CPRG214Lab2.AssetTracking\CPRG214Lab2.AssetTracking.App\obj\Debug\netcoreapp2.1\Razor\Views\Assets\Details.g.cshtml.cs

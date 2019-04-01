@@ -56,7 +56,7 @@ namespace CPRG214Lab2.AssetTracking.App
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Assets}/{action=Index}/{id?}");
             });
         }
     }
